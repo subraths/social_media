@@ -5,7 +5,7 @@ This is a full stack social media application using React, expressjs, postgres a
 ## Main Features
 * Post
 
-## Libraries used
+## Libraries
 Frontend
 * Typescript
 * React
