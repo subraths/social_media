@@ -5,6 +5,22 @@ This is a full stack social media application using React, expressjs, postgres a
 ## Main Features
 * Post
 
+## Libraries used
+Frontend
+* Typescript
+* React
+* Redux-toolkit
+* React-router-dom
+* Tailwindcss
+* Socket.io-client
+
+Backend
+* Typescript
+* Express
+* Socket.io
+* pg-promise(to interact with postgres database)
+* Postgres as database
+
 ## Todo features
 - [x] Posts
 - [ ] Comments
