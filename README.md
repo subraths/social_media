@@ -6,7 +6,7 @@ This is a full stack social media application using React, expressjs, postgres a
 * Post
 
 ## Libraries
-Frontend
+### Frontend
 * Typescript
 * React
 * Redux-toolkit
@@ -14,7 +14,7 @@ Frontend
 * Tailwindcss
 * Socket.io-client
 
-Backend
+### Backend
 * Typescript
 * Express
 * Socket.io
